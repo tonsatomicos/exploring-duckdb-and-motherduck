@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "duckdb-motherduck-data-processing"
+name = "exploring-duckdb-and-motherduck"
 version = "0.1.0"
 description = ""
 authors = ["Lucas Mesquita <tonsatomicos>"]
