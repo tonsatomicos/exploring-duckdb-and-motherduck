@@ -1,4 +1,4 @@
-# <p align="center">Explorando MotherDuck</p>
+# <p align="center">Explorando DuckeDB e MotherDuck</p>
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=LICENCA&message=...&color=GREEN&style=for-the-badge"/>     
