@@ -58,7 +58,7 @@ Para utilizar DuckDB com MotherDuck, é imprescindível usar a versão 0.9.2 do 
 
 ### Conclusão
 
-Após seguir esses passos, você estará pronto para criar banco de dados, tabelas e persistir informações.
+Após seguir esses passos, você estará pronto para processar e persistir dados no MotherDuck.
 
 ## Considerações Finais
 
