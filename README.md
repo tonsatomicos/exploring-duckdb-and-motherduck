@@ -1,14 +1,13 @@
-# <p align="center">Explorando DuckeDB e MotherDuck</p>
+# <p align="center">Explorando DuckDB<br>Com foco no MotherDuck</p>
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=LICENCA&message=...&color=GREEN&style=for-the-badge"/>     
 <img src="http://img.shields.io/static/v1?label=STATUS&message=N/A&color=GREEN&style=for-the-badge"/>
 </p>
 
+Este projeto explora a utilização do DuckDB com ênfase em processamento e persistência de dados, aproveitando a plataforma MotherDuck. O desenvolvimento foi feito utilizando um Jupyter Notebook, com o intuito de tornar a implementação fácil de entender e reproduzir.
 
-Este projeto explora o uso do DuckDB com foco em processamento e persistência utilizando o MotherDuck. Foi desenvolvido utilizando um Jupyter Notebook, com o objetivo de ser fácil de compreensão e replicação. 
-
-O notebook está organizado em mini tópicos que facilitam o aprendizado e a execução do código. Cada tópico trata de uma parte específica do projeto, desde a configuração inicial até a persistência de dados.
+O notebook é estruturado em seções curtas que facilitam o aprendizado e a execução do código. Cada seção aborda um aspecto específico do projeto, desde a configuração inicial até a persistência de dados, com especial destaque para as capacidades da plataforma MotherDuck.
 
 ## Projeto
 
@@ -58,7 +57,7 @@ Para utilizar DuckDB com MotherDuck, é imprescindível usar a versão 0.9.2 do 
 
 ### Conclusão
 
-Após seguir esses passos, você estará pronto para processar e persistir dados no MotherDuck.
+Após seguir esses passos, você estará pronto para explorar os limites do MotherDuck.
 
 ## Considerações Finais
 
