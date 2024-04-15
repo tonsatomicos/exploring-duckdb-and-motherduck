@@ -12,7 +12,7 @@ O notebook está organizado em mini tópicos que facilitam o aprendizado e a exe
 
 ## Projeto
 
-![Diagram](https://github.com/tonsatomicos/getting-objects-from-s3/blob/main/assets/diagram_pipeline.png?raw=true)
+![Diagram](https://github.com/tonsatomicos/exploring-duckdb-and-motherduck/blob/main/assets/diagram_pipeline.png?raw=true)
 
 Sinta-se à vontade para clonar, adaptar e ajustar o projeto conforme necessário. Consulte as instruções abaixo, se precisar. :alien:
 
