@@ -59,6 +59,10 @@ Para utilizar DuckDB com MotherDuck, é imprescindível usar a versão 0.9.2 do 
 
 Após seguir esses passos, você estará pronto para explorar os limites do MotherDuck.
 
+#### Observação
+
+Após carregarmos os dados da "stg" no MotherDuck, indico você montar e executar as querys diretamente na plataforma, ao invés de usar o Jupyter.
+
 ## Considerações Finais
 
 - A documentação pode não estar tão detalhada, talvez seja necessário um certo nível de conhecimento para adaptar o código.
